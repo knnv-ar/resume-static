@@ -15,6 +15,8 @@ body {
   min-height: 100vh;
 }
 
+/* HEADER START */
+
 .container {
   position: relative;
   width: 100%;
@@ -78,8 +80,14 @@ body {
   position: relative;
   font-size: 0.5em;
   font-weight: 300;
+  /* line-height: 2%; */
   top: -10px;
 }
+
+/* letter-spacing: 0.1em; */
+
+/* HEADER END */
+
 
 .container .contentBox {
   position: relative;
