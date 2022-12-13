@@ -1,5 +1,7 @@
-# Resume CV design in HTML CSS
+# Raúl Federico Lacabanne | Static resume
 
-https://youtu.be/wWqihnEk6_c
+Based on "Resume CV design in HTML CSS"
 
-25:33
+URL: https://youtu.be/wWqihnEk6_c
+
+Youtube channel: https://www.youtube.com/@OnlineTutorialsYT
